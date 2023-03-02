@@ -10,10 +10,10 @@
  
 <div id="badges">
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/chaitanya-bijawe-a1603433/)">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn Badge" width="30" height="30"/>
   </a>
   <a href="https://twitter.com/ChaitanyaBjwe">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter Badge"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter Badge" width="30" height="30"/>
   </a>
 </div>
   </div>
