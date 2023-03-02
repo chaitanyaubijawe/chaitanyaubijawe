@@ -7,20 +7,20 @@
 
 <div id="header" align="center">
 <H2>Hi there, I'm Chaitanya 👋</H2>
- 
-<div id="badges">
   <a href="https://www.linkedin.com/in/chaitanya-bijawe-a1603433/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn Badge" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn Badge" width="20" height="20"/>
   </a>
   <a href="https://twitter.com/ChaitanyaBjwe">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter Badge" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter Badge" width="20" height="20"/>
   </a>
-</div>
   </div>
-
+  
+<br/>
+<p>
+I'm a software developer with over 12+ years of experience in the field. My main areas of expertise are web2 and web3 development, and I've worked with a variety of programming languages and frameworks, including spring(java), node(js), flask(python), truffle(web3).
+</p>
 
 ---
-
 ### :hammer_and_wrench: Languages and Tools :
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40" />&nbsp;
@@ -37,11 +37,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="flask" alt="flask" width="40" height="40" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40" />
 </div>
-
-
-<p>
-I'm a software developer with over 12+ years of experience in the field. My main areas of expertise are web2 and web3 development, and I've worked with a variety of programming languages and frameworks, including spring(java), node(js), flask(python), truffle(web3).
-</p>
 
 <h3>What I'm working on</h3>
 <p>
