@@ -38,15 +38,12 @@ I'm a software developer with over 12+ years of experience in the field. My main
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40" />
 </div>
 
-<h3>What I'm working on</h3>
+---
+
+### :fire: What I'm working on :
 <p>
 Currently, I'm working on building decentralize application with block chain technology, a product which will enable user to track their financial investment. This project involves tracking mutual fund portfolio, track dmat accounts, credit cards, fixed deposit.
 </p>
-
----
-
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chaitanyaubijawe)](https://git.io/streak-stats)
 
 
 Feel free to reach out to me if you have any questions or if you'd like to chat about potential collaborations!
