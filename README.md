@@ -17,7 +17,7 @@
   
 <br/>
 <p>
-14+ yrs exp. in Spring Boot, Angular, AWS, Docker \u0026 Terraform | Passionate about building scalable, efficient, and secure solutions | Always learning and improving my craft #SpringBoot #AngularJS #AWS #Docker #Terraform #SoftwareDevelopment #CloudComputing\
+14+ yrs exp. in Spring Boot, Angular, AWS, Docker Terraform | Passionate about building scalable, efficient, and secure solutions | Always learning and improving my craft #SpringBoot #AngularJS #AWS #Docker #Terraform #SoftwareDevelopment #CloudComputing\
 </p>
 
 ---
