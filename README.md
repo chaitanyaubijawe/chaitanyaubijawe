@@ -17,7 +17,7 @@
   
 <br/>
 <p>
-I'm a software developer with over 12+ years of experience in the field. My main areas of expertise are web2 and web3 development, and I've worked with a variety of programming languages and frameworks, including spring(java), node(js), flask(python), truffle(web3).
+14+ yrs exp. in Spring Boot, Angular, AWS, Docker \u0026 Terraform | Passionate about building scalable, efficient, and secure solutions | Always learning and improving my craft #SpringBoot #AngularJS #AWS #Docker #Terraform #SoftwareDevelopment #CloudComputing\
 </p>
 
 ---
